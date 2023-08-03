@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TahitiZoom
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Node.JS and Ghost
+- 🌱 I’m currently learning React.js and Rust
 - 💞️ I’m looking to collaborate on Ghost
 - 📫 How to reach me by email : contact@tahitizoom.pf
 
