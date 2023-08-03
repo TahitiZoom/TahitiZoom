@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Node.JS and Ghost
 - 💞️ I’m looking to collaborate on Ghost
-- 📫 How to reach me by email : tahitizoom@gmail.com
+- 📫 How to reach me by email : contact@tahitizoom.pf
 
 <!---
 TahitiZoom/TahitiZoom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
